@@ -5,8 +5,9 @@
 - Tích hợp từ điển Kỹ thuật.  
 - Hỗ trợ tra cứu các biến thể của từ. Vd: tra cứu `remembered` sẽ ra `remember`.  
 
-![info](https://user-images.githubusercontent.com/96280/236966365-db4db778-de7a-48ce-9d39-4b23977c5495.png)
 ![look-up](https://user-images.githubusercontent.com/96280/236966275-c65973ca-4bd5-4183-9b35-c68ccd21f0e9.png)
+![info](https://user-images.githubusercontent.com/96280/236966365-db4db778-de7a-48ce-9d39-4b23977c5495.png)  
+
 
 ## Cài đặt
 1. Tải file từ điển trong mục [Releases](../../releases).
