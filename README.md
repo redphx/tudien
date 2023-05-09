@@ -10,7 +10,7 @@
 
 ## Cài đặt
 1. Tải file từ điển trong mục [Releases](../../releases).
-2. Cắm Kindle vào cổng USB của máy tính.  
+2. Kết nối Kindle với máy tính/điện thoại qua cổng USB.  
 3. Chép file từ điển vào thư mục: `documents/dictionaries/`.  
 
 ## Cập nhật
