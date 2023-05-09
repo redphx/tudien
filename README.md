@@ -18,6 +18,7 @@ Nếu muốn cập nhật phiên bản mới của thư viện chỉ cần làm 
 
 ## TODO
 - [ ] Thêm nội dung Grammar (các thì của một từ).  
+- [ ] Thêm mẫu câu.  
 - [ ] Tích hợp từ điển Việt-Anh.
 - [x] Tích hợp từ điển Kỹ thuật.
   
