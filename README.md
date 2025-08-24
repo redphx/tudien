@@ -1,5 +1,6 @@
 # Từ điển Anh-Việt TFlat cho Kobo và Kindle  
 
+- ***Theo dõi FB để biết thông tin về phiên bản mới: https://www.facebook.com/getsachxy***
 - **Dữ liệu:** lấy từ app [Từ điển TFLat](https://play.google.com/store/apps/details?id=com.vn.dic.e.v.ui).  
 - **Số từ:** hơn 170,000 từ.  
 - Tích hợp từ điển Kỹ thuật.  
