@@ -39,6 +39,16 @@
   - Kindle: thư mục `koreader/data/dict/tudien-en-vi`  
   - Kobo: thư mục `.adds/koreader/data/dict/tudien-en-vi`  
   Nếu làm đúng, trong thư mục `dict/tudien-en-vi/` sẽ có 3 file cùng tên với đuôi `.dict.dz`, `.idx` và `.ifo` (không có thư mục con)
+  ```
+.../
+├─ dict/
+│  ├─ tudien-en-vi/
+│  │  ├─ tudien.dict.dz
+│  │  ├─ tudien.idx
+│  │  ├─ tudien.ifo
+  ```
+
+
 4. Dùng chức năng `Tháo/Eject USB` trên máy tính để tránh mất dữ liệu  
 
 Xem [trang này](https://github.com/koreader/koreader/wiki/Dictionary-support) để xem cách cài đặt từ điển cho KOReader trên các hệ máy khác.
