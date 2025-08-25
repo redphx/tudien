@@ -5,6 +5,7 @@
 - **Dữ liệu:**
   - Lạc Việt
   - TFlat
+  - DictBox
   - Babylon
   - Laban
 - **Số từ:** hơn 170,000 từ  
@@ -33,7 +34,7 @@
 5. Có thể sẽ cần phải khởi động lại máy  
 
 ## Cài đặt cho KOReader
-1. Tải file `tudien-stardict-en-vi.zip` trong mục [Releases](https://github.com/redphx/tudien/releases/latest)   
+1. Tải file `tudien-stardict-en-vi.zip` trong mục [Releases](https://github.com/redphx/tudien/releases/latest)  
 2. Kết nối Kobo/Kindle với máy tính/điện thoại qua cổng USB
 3. Giải nén nội dung file vừa tải vào thư mục (tạo mới nếu chưa có sẵn):  
   - Kindle: thư mục `koreader/data/dict/tudien-en-vi`  
@@ -48,10 +49,14 @@
 │  │  ├─ tudien.ifo
   ```
 
-
 4. Dùng chức năng `Tháo/Eject USB` trên máy tính để tránh mất dữ liệu  
 
 Xem [trang này](https://github.com/koreader/koreader/wiki/Dictionary-support) để xem cách cài đặt từ điển cho KOReader trên các hệ máy khác.
+
+## Cài đặt cho máy đọc sách Boox
+
+1. Tải file `tudien-stardict-en-vi.zip` trong mục [Releases](https://github.com/redphx/tudien/releases/latest)  
+2. Xem [hướng dẫn](https://youtu.be/6YUC9jct6QA?t=32) để biết cách cài đặt
 
 ## Cập nhật
 Nếu muốn cập nhật phiên bản mới của thư viện chỉ cần làm lại các bước như lúc cài đặt, nhưng khuyến khích xóa phiên bản cũ (xóa file) trong máy trước để tránh bị lỗi.  
