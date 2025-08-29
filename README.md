@@ -1,7 +1,8 @@
 # Từ điển Anh-Việt tổng hợp cho Kobo, Kindle, KOReader, StarDict...
 
-***Theo dõi FB để biết thông tin về phiên bản mới: [fb.me/getsachxy](https://fb.me/getsachxy)***
+🇻🇳  [Cài đặt giao diện tiếng Việt và sửa lỗi hiển thị tiếng Việt cho Kobo](https://sachxy.github.io)
 
+## Thông tin
 - **Dữ liệu:**
   - Lạc Việt
   - TFlat
@@ -9,14 +10,15 @@
   - Babylon
   - Laban
 - **Số từ:** hơn 170,000 từ  
-- Tích hợp từ điển Kỹ thuật  
+- Tích hợp từ điển Kỹ thuật
+- Trình bày đẹp, tối ưu cho máy đọc sách
 - Hỗ trợ tra cứu các biến thể của từ. Vd: tra cứu `remembered` sẽ ra `remember`.
 - Hiển thị kèm các từ liên quan. Vd: hiển thị nghĩa của `cook` khi đang tra `cooking`.
 
 > [!NOTE]
 > Vì từ điển được tổng hợp từ nhiều nguồn nên khả năng bị lặp nghĩa là không thể tránh khỏi. Nếu bạn thấy có vấn đề về nghĩa, vui lòng tạo Issue mới hoặc liên hệ fb: [fb.me/getsachxy](https://fb.me/getsachxy).
 
-![look-up](https://user-images.githubusercontent.com/96280/236966275-c65973ca-4bd5-4183-9b35-c68ccd21f0e9.png)
+<img height="600" alt="image" src="https://github.com/user-attachments/assets/9c243191-49af-4241-8bf1-db30ccaf32ef" />
 
 ## Cài đặt cho Kobo
 1. Cài đặt bản vá Kobo tiếng Việt tại [redphx/kobo-tieng-viet](https://github.com/redphx/kobo-tieng-viet)  
