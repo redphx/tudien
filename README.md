@@ -28,7 +28,7 @@
 5. Có thể sẽ cần phải khởi động lại máy  
 
 ## Cài đặt cho máy đọc sách Kobo
-1. Cài đặt bản vá Kobo tiếng Việt tại [redphx/kobo-tieng-viet](https://github.com/redphx/kobo-tieng-viet) (chỉ cần làm cho lần đầu cài đặt)  
+1. Cài đặt [Kobo tiếng Việt](https://github.com/redphx/kobo-tieng-viet) để máy hỗ trợ từ điển Tiếng Việt (chỉ cần làm cho lần đầu cài đặt)  
 2. Tải file `tudien-kobo-en-vi.zip` trong mục [Releases](https://github.com/redphx/tudien/releases/latest)  
 3. Kết nối Kobo với máy tính/điện thoại qua cổng USB  
 4. Chép file vừa tải vào thư mục: `.kobo/custom-dict` (để nguyên, không giải nén)  
