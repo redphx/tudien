@@ -21,7 +21,7 @@
 <img height="600" alt="image" src="https://github.com/user-attachments/assets/9c243191-49af-4241-8bf1-db30ccaf32ef" />
 
 ## Cài đặt cho Kobo
-1. Cài đặt bản vá Kobo tiếng Việt tại [redphx/kobo-tieng-viet](https://github.com/redphx/kobo-tieng-viet)  
+1. Cài đặt bản vá Kobo tiếng Việt tại [redphx/kobo-tieng-viet](https://github.com/redphx/kobo-tieng-viet) (chỉ cần làm cho lần đầu cài đặt)   
 2. Tải file `tudien-kobo-en-vi.zip` trong mục [Releases](https://github.com/redphx/tudien/releases/latest)  
 3. Kết nối Kobo với máy tính/điện thoại qua cổng USB  
 4. Chép file vừa tải vào thư mục: `.kobo/custom-dict` (để nguyên, không giải nén)  
