@@ -1,4 +1,4 @@
-# Từ điển Anh-Việt tổng hợp cho Kobo, Kindle, KOReader, StarDict...
+# Từ điển Anh-Việt tổng hợp cho Kindle, Kobo, KOReader, StarDict...
 
 🇻🇳  [Cài đặt giao diện tiếng Việt và sửa lỗi hiển thị tiếng Việt cho Kobo](https://sachxy.github.io)
 
@@ -20,20 +20,20 @@
 
 <img height="600" alt="image" src="https://github.com/user-attachments/assets/9c243191-49af-4241-8bf1-db30ccaf32ef" />
 
-## Cài đặt cho Kobo
-1. Cài đặt bản vá Kobo tiếng Việt tại [redphx/kobo-tieng-viet](https://github.com/redphx/kobo-tieng-viet) (chỉ cần làm cho lần đầu cài đặt)   
-2. Tải file `tudien-kobo-en-vi.zip` trong mục [Releases](https://github.com/redphx/tudien/releases/latest)  
-3. Kết nối Kobo với máy tính/điện thoại qua cổng USB  
-4. Chép file vừa tải vào thư mục: `.kobo/custom-dict` (để nguyên, không giải nén)  
-5. Sửa tên file thành `dicthtml-en-vi.zip` (xóa file từ điển cũ nếu cần)  
-6. Dùng chức năng `Tháo/Eject USB` trên máy tính để tránh mất dữ liệu  
-
-## Cài đặt cho Kindle
+## Cài đặt cho máy đọc sách Kindle
 1. Tải file `tudien-kindle-en-vi.mobi` trong mục [Releases](https://github.com/redphx/tudien/releases/latest)   
 2. Kết nối Kindle với máy tính/điện thoại qua cổng USB  
 3. Chép file vừa tải vào thư mục: `documents/dictionaries/` (xóa file từ điển cũ nếu cần)  
 4. Dùng chức năng `Tháo/Eject USB` trên máy tính để tránh mất dữ liệu  
 5. Có thể sẽ cần phải khởi động lại máy  
+
+## Cài đặt cho máy đọc sách Kobo
+1. Cài đặt bản vá Kobo tiếng Việt tại [redphx/kobo-tieng-viet](https://github.com/redphx/kobo-tieng-viet) (chỉ cần làm cho lần đầu cài đặt)  
+2. Tải file `tudien-kobo-en-vi.zip` trong mục [Releases](https://github.com/redphx/tudien/releases/latest)  
+3. Kết nối Kobo với máy tính/điện thoại qua cổng USB  
+4. Chép file vừa tải vào thư mục: `.kobo/custom-dict` (để nguyên, không giải nén)  
+5. Sửa tên file thành `dicthtml-en-vi.zip` (xóa file từ điển cũ nếu cần)  
+6. Dùng chức năng `Tháo/Eject USB` trên máy tính để tránh mất dữ liệu  
 
 ## Cài đặt cho KOReader
 1. Tải file `tudien-stardict-en-vi.zip` trong mục [Releases](https://github.com/redphx/tudien/releases/latest)  
