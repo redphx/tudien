@@ -18,7 +18,7 @@
 > [!NOTE]
 > Vì từ điển được tổng hợp từ nhiều nguồn nên khả năng bị lặp nghĩa là không thể tránh khỏi. Nếu bạn thấy có vấn đề về nghĩa, vui lòng tạo Issue mới hoặc liên hệ fb: [fb.me/getsachxy](https://fb.me/getsachxy).
 
-<img height="600" alt="image" src="https://github.com/user-attachments/assets/9c243191-49af-4241-8bf1-db30ccaf32ef" />
+<img height="600" src="https://github.com/user-attachments/assets/75e1938e-adff-45b0-ba84-ff26437a044d" />
 
 ## Cài đặt cho máy đọc sách Kindle
 1. Tải file `tudien-kindle-en-vi.mobi` trong mục [Releases](https://github.com/redphx/tudien/releases/latest)   
