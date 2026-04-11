@@ -16,7 +16,7 @@
 - Hiển thị kèm các từ liên quan. Vd: hiển thị nghĩa của `cook` khi đang tra `cooking`.
 
 > [!NOTE]
-> Vì từ điển được tổng hợp từ nhiều nguồn nên khả năng bị lặp nghĩa là không thể tránh khỏi. Nếu bạn thấy có vấn đề về nghĩa, vui lòng tạo Issue mới hoặc liên hệ fb: [fb.me/getsachxy](https://fb.me/getsachxy).
+> Vì từ điển được tổng hợp từ nhiều nguồn nên khả năng bị lặp nghĩa là không thể tránh khỏi. Nếu bạn thấy có vấn đề về nghĩa, vui lòng tạo Issue mới hoặc liên hệ fb: [fb.me/getsachxy](https://fb.me/sachxycom).
 
 <img height="600" src="https://github.com/user-attachments/assets/75e1938e-adff-45b0-ba84-ff26437a044d" />
 
