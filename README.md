@@ -55,6 +55,13 @@
 
 Xem [trang này](https://github.com/koreader/koreader/wiki/Dictionary-support) để xem cách cài đặt từ điển cho KOReader trên các hệ máy khác.
 
+## Cài đặt cho Xteink, Crosspoint, Crossink...
+
+Bạn có thể dùng từ điển bản Stardict cho Xteink, Crosspoint, Crossink... Vui lòng tra cứu cách cài từ điển tùy theo firmware đang sử dụng.  
+  
+⚠️ Lưu ý: phiên bản từ điển hiện tại chưa được tối ưu cho máy đọc sách mini. Mình đang tìm các bạn đang sử dụng Xteink X4 Pro để giúp mình tạo bản mới cho các máy/firmware này. Có thể nhắn tin FB mình tại [fb.me/sachxycom](fb.me/sachxycom)
+
+
 ## Cài đặt cho máy đọc sách Boox
 
 1. Tải file `tudien-stardict-en-vi.zip` trong mục [Releases](https://github.com/redphx/tudien/releases/latest)  
