@@ -32,7 +32,7 @@
 2. Tải file `tudien-kobo-en-vi.zip` trong mục [Releases](https://github.com/redphx/tudien/releases/latest)  
 3. Kết nối Kobo với máy tính/điện thoại qua cổng USB  
 4. Chép file vừa tải vào thư mục: `.kobo/custom-dict` (để nguyên, không giải nén)  
-5. Sửa tên file thành `dicthtml-en-vi.zip` (xóa file từ điển cũ nếu cần)  
+5. Sửa tên file thành `dicthtml-en-vi.zip` (không phải `dicthtml-en-vi.zip.zip`, xóa file từ điển cũ nếu cần)  
 6. Dùng chức năng `Tháo/Eject USB` trên máy tính để tránh mất dữ liệu  
 
 ## Cài đặt cho KOReader
